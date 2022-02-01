@@ -1,4 +1,5 @@
 Test
+encore
 wrath-soul
 chaos
 holiday
